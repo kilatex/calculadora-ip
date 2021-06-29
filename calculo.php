@@ -14,7 +14,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
       <div class="container-fluid">
-          <a class="navbar-brand" href="./index.html">Aplicación</a>
+          <a class="navbar-brand" href="./index.php">Aplicación</a>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
