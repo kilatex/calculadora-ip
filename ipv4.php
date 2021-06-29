@@ -20,18 +20,19 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
+
                         <li class="nav-item">
-                            <a class="nav-link" href="./index.html">Inicio</a>
+                            <a class="nav-link" href="./index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./capas.html">Capas de TCP/IP</a>
+                            <a class="nav-link" href="./capas.php">Capas de TCP/IP</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="./ipv4.html">IPV4</a>
+                            <a class="nav-link" href="./ipv4.php">IPV4</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./ipv6.html">IPV6</a>
+                            <a class="nav-link" href="./ipv6.php">IPV6</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="./calculadora.php">Calculadora</a>
