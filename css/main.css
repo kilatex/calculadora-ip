@@ -1,0 +1,13 @@
+.input-number{
+    width: 100px;
+    border: 1px solid blue;
+}
+body{
+    background: url("../img/bg.jpg") repeat-y;
+    color: white;
+}
+body.calculadora{
+    background: none !important;
+    color: black;
+
+}
